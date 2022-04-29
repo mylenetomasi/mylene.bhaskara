@@ -1,0 +1,32 @@
+
+.lugar{
+    margin: 89px 0px 0px 0px;
+    position: absolute;
+}
+#vA, #vC, #vB{
+    margin: 10px 10px 10px 10px;
+    color: white;
+}
+label{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+input{
+    width: 16%;
+}
+#btncalcular{
+    margin: 16px 0px 0px 235px;
+}
+#resul{
+    margin: 20px 0px 0px 168px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    color: white;
+}
+#cont{
+    background-color: #03a9f4;
+    height: 254px;
+    width: 546px;
+    margin: 0 auto;
+    margin-top: 230px;
+    position: sticky;
+}
